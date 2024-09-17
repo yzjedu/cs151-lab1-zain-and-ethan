@@ -1,3 +1,10 @@
+# Programmers:  [Ethan, Zain]
+# Course:  CS151, [Mr. Zee]
+# Due Date: 9/18/2024
+# Lab Assignment: 1
+# Problem Statement: [Calculates the cost required for the trip]
+# Data In: [Cost per gallon, distance of trip in miles, miles per gallon of car]
+# Data Out:  [How expensive the trip will be ]
 
 
 #Prompt the necessary amount of miles that the user needs to travel
